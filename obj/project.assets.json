@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AIWolfClient/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "AIWolfServer": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AIWolfClient.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AIWolfClient.dll": {}
+        }
+      },
+      "AIWolfLib/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/AIWolfLib.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AIWolfLib.dll": {}
+        }
+      },
+      "AIWolfServer/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "AIWolfLib": "2.1.0",
+          "NLog": "4.7.10"
+        },
+        "compile": {
+          "lib/netstandard2.1/AIWolfServer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AIWolfServer.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NLog/4.7.10": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIWolfClient/1.0.0": {
+      "sha512": "ZM8RGTfWJd7LvRiqvu6Pw4p5ngROL9OILRz9xtIq6KG1qOF/ji5HLCGgzrFsj3lz+OvCUMI+XHyfrK324En5Pg==",
+      "type": "package",
+      "path": "aiwolfclient/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "aiwolfclient.1.0.0.nupkg.sha512",
+        "aiwolfclient.nuspec",
+        "lib/netstandard2.1/AIWolfClient.dll"
+      ]
+    },
+    "AIWolfLib/2.1.0": {
+      "sha512": "rVJjqxjHCZVcOzfoUBagHu/Gy6MaSZvGrYs8Go0kjngBrv3uvmRRuF3LtD5SshAnETjZcZQ/wQlh1JbaDLZ87w==",
+      "type": "package",
+      "path": "aiwolflib/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "aiwolflib.2.1.0.nupkg.sha512",
+        "aiwolflib.nuspec",
+        "lib/netstandard2.1/AIWolfLib.dll"
+      ]
+    },
+    "AIWolfServer/2.2.0": {
+      "sha512": "AXc2UlUc4uroYRNLi1K1KONXzb0GpLXbWeu9D0yInYOmBwHVo1PCAAETKFrymtmlkIKMUi/B3F5giylAhqXzUA==",
+      "type": "package",
+      "path": "aiwolfserver/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "aiwolfserver.2.2.0.nupkg.sha512",
+        "aiwolfserver.nuspec",
+        "lib/netstandard2.1/AIWolfServer.dll"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "NLog/4.7.10": {
+      "sha512": "rcegW7kYOCjl7wX0SzsqpPBqnJ51JKi1WkYb6QBVX0Wc5IgH19Pv4t/co+T0s06OS0Ne44xgkY/mHg0PdrmJow==",
+      "type": "package",
+      "path": "nlog/4.7.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid44/NLog.dll",
+        "lib/monoandroid44/NLog.xml",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net40-client/NLog.dll",
+        "lib/net40-client/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "lib/sl4/NLog.dll",
+        "lib/sl4/NLog.xml",
+        "lib/sl5/NLog.dll",
+        "lib/sl5/NLog.xml",
+        "lib/wp8/NLog.dll",
+        "lib/wp8/NLog.xml",
+        "lib/xamarinios10/NLog.dll",
+        "lib/xamarinios10/NLog.xml",
+        "nlog.4.7.10.nupkg.sha512",
+        "nlog.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AIWolfClient >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/dhruviyer17/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/dhruviyer17/MyAgent/MyAgent.csproj",
+      "projectName": "MyAgent",
+      "projectPath": "/Users/dhruviyer17/MyAgent/MyAgent.csproj",
+      "packagesPath": "/Users/dhruviyer17/.nuget/packages/",
+      "outputPath": "/Users/dhruviyer17/MyAgent/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/dhruviyer17/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AIWolfClient": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

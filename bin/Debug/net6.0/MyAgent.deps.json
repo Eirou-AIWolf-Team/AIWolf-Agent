@@ -1,0 +1,111 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyAgent/1.0.0": {
+        "dependencies": {
+          "AIWolfClient": "1.0.0"
+        },
+        "runtime": {
+          "MyAgent.dll": {}
+        }
+      },
+      "AIWolfClient/1.0.0": {
+        "dependencies": {
+          "AIWolfServer": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AIWolfClient.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AIWolfLib/2.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AIWolfLib.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "AIWolfServer/2.2.0": {
+        "dependencies": {
+          "AIWolfLib": "2.1.0",
+          "NLog": "4.7.10"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AIWolfServer.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "NLog/4.7.10": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.10.13013"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAgent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIWolfClient/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZM8RGTfWJd7LvRiqvu6Pw4p5ngROL9OILRz9xtIq6KG1qOF/ji5HLCGgzrFsj3lz+OvCUMI+XHyfrK324En5Pg==",
+      "path": "aiwolfclient/1.0.0",
+      "hashPath": "aiwolfclient.1.0.0.nupkg.sha512"
+    },
+    "AIWolfLib/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rVJjqxjHCZVcOzfoUBagHu/Gy6MaSZvGrYs8Go0kjngBrv3uvmRRuF3LtD5SshAnETjZcZQ/wQlh1JbaDLZ87w==",
+      "path": "aiwolflib/2.1.0",
+      "hashPath": "aiwolflib.2.1.0.nupkg.sha512"
+    },
+    "AIWolfServer/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AXc2UlUc4uroYRNLi1K1KONXzb0GpLXbWeu9D0yInYOmBwHVo1PCAAETKFrymtmlkIKMUi/B3F5giylAhqXzUA==",
+      "path": "aiwolfserver/2.2.0",
+      "hashPath": "aiwolfserver.2.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "NLog/4.7.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcegW7kYOCjl7wX0SzsqpPBqnJ51JKi1WkYb6QBVX0Wc5IgH19Pv4t/co+T0s06OS0Ne44xgkY/mHg0PdrmJow==",
+      "path": "nlog/4.7.10",
+      "hashPath": "nlog.4.7.10.nupkg.sha512"
+    }
+  }
+}
