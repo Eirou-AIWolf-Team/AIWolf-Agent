@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2A3ok0gTMqK51H+09HkKXSKDbC+SpC9UsttkBH6jU6SIlObksK5LdWL6tXa71E1Db+8ZbFgGYusM9Sh/eKlqQ==",
+  "dgSpecHash": "t4buZL0+/34/3eX1MT8u0Egq0LHKFrpwT5oYmQuR1XE4XkoGuak07MX4zjVSHPZPrjX5Y8T30u/OLPB+Gc4rXA==",
   "success": true,
-  "projectFilePath": "/Users/dhruviyer17/MyAgent/MyAgent.csproj",
+  "projectFilePath": "/Users/dhruviyer17/AIWolf-Agent/MyAgent.csproj",
   "expectedPackageFiles": [
     "/Users/dhruviyer17/.nuget/packages/aiwolfclient/1.0.0/aiwolfclient.1.0.0.nupkg.sha512",
     "/Users/dhruviyer17/.nuget/packages/aiwolflib/2.1.0/aiwolflib.2.1.0.nupkg.sha512",
