@@ -166,19 +166,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/dhruviyer17/.nuget/packages/": {}
+    "/home/denjo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dhruviyer17/MyAgent/MyAgent.csproj",
+      "projectUniqueName": "/home/denjo/ダウンロード/AIWolf/AIWolf-Agent/MyAgent.csproj",
       "projectName": "MyAgent",
-      "projectPath": "/Users/dhruviyer17/MyAgent/MyAgent.csproj",
-      "packagesPath": "/Users/dhruviyer17/.nuget/packages/",
-      "outputPath": "/Users/dhruviyer17/MyAgent/obj/",
+      "projectPath": "/home/denjo/ダウンロード/AIWolf/AIWolf-Agent/MyAgent.csproj",
+      "packagesPath": "/home/denjo/.nuget/packages/",
+      "outputPath": "/home/denjo/ダウンロード/AIWolf/AIWolf-Agent/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dhruviyer17/.nuget/NuGet/NuGet.Config"
+        "/home/denjo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -222,7 +222,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
