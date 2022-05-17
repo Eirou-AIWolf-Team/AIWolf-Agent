@@ -2,13 +2,13 @@
 using AIWolf.Client;
 using AIWolf.Lib;
 
-namespace MyAgent
+namespace Eirou
 {
     class MyAgentApp
     {
         static void Main(string[] args)
         {
-            new ClientStarter(new DummyPlayer(), args).Start();
+            new ClientStarter(new Seer(), args).Start();
         }
     }
 }
