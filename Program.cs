@@ -8,7 +8,7 @@ namespace MyAgent
     {
         static void Main(string[] args)
         {
-            new ClientStarter(new DummyPlayer(), args).Start();
+            new ClientStarter(new Werewolf2(), args).Start();
         }
     }
 }

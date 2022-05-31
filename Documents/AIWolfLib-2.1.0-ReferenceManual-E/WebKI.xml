@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AbstractRoleAssignPlayer class">
+    <HelpKINode Title="AbstractRoleAssignPlayer Class" Url="html/0963d36c-134c-805f-8c48-ee47f6ace994.htm" />
+    <HelpKINode Title="constructor" Url="html/57a16959-f5bf-ea2a-025c-8db1598e400e.htm" />
+    <HelpKINode Title="methods" Url="html/94fdfceb-a545-73e2-529f-446338b0737b.htm" />
+    <HelpKINode Title="properties" Url="html/21bb3b4d-6506-7cb3-1819-8dcd3a55814d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractRoleAssignPlayer.AbstractRoleAssignPlayer constructor" Url="html/57a16959-f5bf-ea2a-025c-8db1598e400e.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Attack method" Url="html/5797eef4-9ce6-01c9-7b0e-22488b836a74.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.BodyguardPlayer property" Url="html/cec74e8d-5dd6-5bac-bd38-c0c0a862ad68.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.DayStart method" Url="html/efac5761-6fac-0510-6317-992f9f5b4d6b.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Divine method" Url="html/acb4c8f3-aa1a-5288-a4b8-dd9236ccc0d4.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Finish method" Url="html/3c12669f-44a2-699a-0bb1-e7e59f5dfeec.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Guard method" Url="html/746c1bbd-a73d-159f-5d4e-9a06f3404605.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Initialize method" Url="html/d3283b8b-4886-378e-71e6-b8560ed72f68.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.MediumPlayer property" Url="html/58e2b43d-78b6-7119-5186-e6b5828e70f5.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Name property" Url="html/f8d48ea6-d37c-886f-e0c2-aa69c2483611.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.PossessedPlayer property" Url="html/324c2e84-f22c-31e2-4092-47b2f5901f7a.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.SeerPlayer property" Url="html/3e112374-a0be-4c9a-6407-5ea22e13936a.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Talk method" Url="html/dd22164b-e06c-f1cd-f425-d7e260ea1a1d.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Update method" Url="html/02a78045-2043-5f00-1214-819176abdf37.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.VillagerPlayer property" Url="html/582c292b-8c52-2b8e-db85-9e42a87609b6.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Vote method" Url="html/33805904-d70d-082e-6e05-ae957a438075.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.WerewolfPlayer property" Url="html/e7e16068-3e23-e04a-fa0b-6fb581b675fc.htm" />
+  <HelpKINode Title="AbstractRoleAssignPlayer.Whisper method" Url="html/bf0acf01-1f55-cd07-af4a-13c5b1055ba2.htm" />
+  <HelpKINode Title="Agent class">
+    <HelpKINode Title="Agent Class" Url="html/6f03466b-1a3a-49a2-0e1b-1fe447ef871e.htm" />
+    <HelpKINode Title="fields" Url="html/aa74629d-90a6-8576-2d76-55084f48ee84.htm" />
+    <HelpKINode Title="methods" Url="html/e228baab-95f4-0aae-8f43-6546962afdcb.htm" />
+    <HelpKINode Title="properties" Url="html/6f5d7afb-f0e6-16b5-28f4-a6bb1b2b6f99.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Agent property">
+    <HelpKINode Title="IGameInfo.Agent Property " Url="html/48b0095d-fa29-7346-9416-471eabc551e4.htm" />
+    <HelpKINode Title="IUtterance.Agent Property " Url="html/5cf39893-a3ae-2603-68f1-26b1ca65566c.htm" />
+    <HelpKINode Title="Judge.Agent Property " Url="html/100b4b0b-80fd-12cf-5ae0-be3b414100ca.htm" />
+    <HelpKINode Title="Talk.Agent Property " Url="html/6649307a-9209-4d3a-d67a-446fc26eaa78.htm" />
+    <HelpKINode Title="Vote.Agent Property " Url="html/b21b891a-9c90-1b3f-fdda-3b0e56447b1d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Agent.AgentIdx property" Url="html/86a10a5f-fe6c-0770-6125-2aad98be8410.htm" />
+  <HelpKINode Title="Agent.ANY field" Url="html/d61de9e5-9329-de25-a286-54cc69449722.htm" />
+  <HelpKINode Title="Agent.GetAgent method" Url="html/c7e398d8-b9cf-1f4d-9b32-e6d4b28c50c1.htm" />
+  <HelpKINode Title="Agent.NONE field" Url="html/8868d961-1ae5-299b-75fe-5b9b221c2855.htm" />
+  <HelpKINode Title="Agent.ToString method" Url="html/a92b5740-12b1-c3a7-68e1-0b099d03137d.htm" />
+  <HelpKINode Title="AgentIdx property" Url="html/86a10a5f-fe6c-0770-6125-2aad98be8410.htm" />
+  <HelpKINode Title="AgentList property" Url="html/f2f9b2e3-fa18-4b11-9011-bd8c06a9569d.htm" />
+  <HelpKINode Title="AGREE enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="AgreeContentBuilder class">
+    <HelpKINode Title="AgreeContentBuilder Class" Url="html/74e377fc-825f-626e-0cf8-74da82497c41.htm" />
+    <HelpKINode Title="constructor" Url="html/d7167647-2334-1d7e-ad3a-191128a0d220.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgreeContentBuilder.AgreeContentBuilder constructor" Url="html/d7167647-2334-1d7e-ad3a-191128a0d220.htm" />
+  <HelpKINode Title="AIWolf.Lib namespace" Url="html/54baffd3-abc9-3092-7bbf-479a8ddbc144.htm" />
+  <HelpKINode Title="AIWolf.Lib.AbstractRoleAssignPlayer class" Url="html/0963d36c-134c-805f-8c48-ee47f6ace994.htm" />
+  <HelpKINode Title="AIWolf.Lib.Agent class" Url="html/6f03466b-1a3a-49a2-0e1b-1fe447ef871e.htm" />
+  <HelpKINode Title="AIWolf.Lib.AgreeContentBuilder class" Url="html/74e377fc-825f-626e-0cf8-74da82497c41.htm" />
+  <HelpKINode Title="AIWolf.Lib.AndContentBuilder class" Url="html/e52d8acc-b654-8134-9c63-2ca8e70d4cf4.htm" />
+  <HelpKINode Title="AIWolf.Lib.AttackContentBuilder class" Url="html/89a99be2-2f3d-6c4d-9b9e-16ace9f3f7e4.htm" />
+  <HelpKINode Title="AIWolf.Lib.AttackedContentBuilder class" Url="html/d5111aba-067f-8250-da54-4148717cacf1.htm" />
+  <HelpKINode Title="AIWolf.Lib.BecauseContentBuilder class" Url="html/c4dab42d-9831-58c3-7144-079e5fa7bcbc.htm" />
+  <HelpKINode Title="AIWolf.Lib.ComingoutContentBuilder class" Url="html/a86d283b-b563-9c86-1990-9695d756cf07.htm" />
+  <HelpKINode Title="AIWolf.Lib.Content class" Url="html/14a21891-1265-56a2-e5e5-ac3ab3d3adf6.htm" />
+  <HelpKINode Title="AIWolf.Lib.ContentBuilder class" Url="html/a325324b-81f8-cc32-3793-056f49f1e08f.htm" />
+  <HelpKINode Title="AIWolf.Lib.DayContentBuilder class" Url="html/9a5c684e-8a97-8adb-9da9-415b0e24c43f.htm" />
+  <HelpKINode Title="AIWolf.Lib.DisagreeContentBuilder class" Url="html/ce5f1c8e-0ff6-4867-9d47-f5bd55b0ac13.htm" />
+  <HelpKINode Title="AIWolf.Lib.DivinationContentBuilder class" Url="html/54bf8fea-cf75-5826-c3f8-9105e076cc80.htm" />
+  <HelpKINode Title="AIWolf.Lib.DivinedResultContentBuilder class" Url="html/9e24504d-9525-c9ab-de4f-e781ac190bff.htm" />
+  <HelpKINode Title="AIWolf.Lib.DummyPlayer class" Url="html/f9ceb83e-45b8-17a7-69cf-342af75736e4.htm" />
+  <HelpKINode Title="AIWolf.Lib.EmptyContentBuilder class" Url="html/9a1baf88-44a0-602c-4a71-1e3b0b3b58a5.htm" />
+  <HelpKINode Title="AIWolf.Lib.EstimateContentBuilder class" Url="html/b0ac2d6f-c1f1-8402-ddc3-d9433675be56.htm" />
+  <HelpKINode Title="AIWolf.Lib.GuardContentBuilder class" Url="html/028b703e-0106-dd63-7b62-bd5c8734692e.htm" />
+  <HelpKINode Title="AIWolf.Lib.GuardedAgentContentBuilder class" Url="html/4297cbe0-ca1f-f518-9029-371b3585faf4.htm" />
+  <HelpKINode Title="AIWolf.Lib.IdentContentBuilder class" Url="html/9c7b9de7-fedb-1203-cfc2-edbcc7481512.htm" />
+  <HelpKINode Title="AIWolf.Lib.IGameInfo interface" Url="html/4d38b21f-3be3-a916-ed1b-1305b6b76842.htm" />
+  <HelpKINode Title="AIWolf.Lib.IGameSetting interface" Url="html/90cb70d0-2bc0-bd01-0671-bf9ec9089453.htm" />
+  <HelpKINode Title="AIWolf.Lib.InquiryContentBuilder class" Url="html/b75a85ae-7db3-f258-f221-51519d7201be.htm" />
+  <HelpKINode Title="AIWolf.Lib.IPlayer interface" Url="html/e1f54d81-7fda-51ec-9d26-599278fc794e.htm" />
+  <HelpKINode Title="AIWolf.Lib.IUtterance interface" Url="html/1d2a3107-abe8-4d09-6e4a-373b9d32d3f6.htm" />
+  <HelpKINode Title="AIWolf.Lib.Judge class" Url="html/b22c8362-3621-15c5-94d0-ddf70ce16064.htm" />
+  <HelpKINode Title="AIWolf.Lib.NotContentBuilder class" Url="html/f41d6705-1d09-51aa-aacb-f9d92b5b61c2.htm" />
+  <HelpKINode Title="AIWolf.Lib.Operator enumeration" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="AIWolf.Lib.OrContentBuilder class" Url="html/f64981bd-a2af-127c-3811-852b169c2606.htm" />
+  <HelpKINode Title="AIWolf.Lib.OverContentBuilder class" Url="html/52e232ea-11d7-9982-4ed9-83247416c17e.htm" />
+  <HelpKINode Title="AIWolf.Lib.RequestContentBuilder class" Url="html/55c16766-eaf9-e65c-76dc-61b5920ca9f1.htm" />
+  <HelpKINode Title="AIWolf.Lib.Role enumeration" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="AIWolf.Lib.RoleExtensions class" Url="html/69948933-bd83-983d-5c29-50a7fcc6dd33.htm" />
+  <HelpKINode Title="AIWolf.Lib.ShuffleExtensions class" Url="html/608b6dfe-890a-4679-d8e7-dfc0decc74fe.htm" />
+  <HelpKINode Title="AIWolf.Lib.SkipContentBuilder class" Url="html/28931834-83e1-72d2-fc83-11da6721bc06.htm" />
+  <HelpKINode Title="AIWolf.Lib.Species enumeration" Url="html/52d816fd-1373-fd68-838d-8ea737bc02ec.htm" />
+  <HelpKINode Title="AIWolf.Lib.Status enumeration" Url="html/43d6671d-30e7-695f-4626-261c40cf2102.htm" />
+  <HelpKINode Title="AIWolf.Lib.Talk class" Url="html/c86ddbc5-3995-9d7f-79a0-aa75b7479a73.htm" />
+  <HelpKINode Title="AIWolf.Lib.Team enumeration" Url="html/90a3bfd2-4a2b-3d2a-ff98-78d98ff2078b.htm" />
+  <HelpKINode Title="AIWolf.Lib.Topic enumeration" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="AIWolf.Lib.UtteranceType enumeration" Url="html/ce4482e3-e369-9b1b-a057-7a89ba4c02e8.htm" />
+  <HelpKINode Title="AIWolf.Lib.Vote class" Url="html/da8f9d8d-4ce2-188a-d1c8-fbd1af04c236.htm" />
+  <HelpKINode Title="AIWolf.Lib.VoteContentBuilder class" Url="html/36be7a8f-6557-5944-397e-4f9e30f4a0fd.htm" />
+  <HelpKINode Title="AIWolf.Lib.VotedContentBuilder class" Url="html/b7eacc51-6dbe-5997-24da-e8e62b0ab7c2.htm" />
+  <HelpKINode Title="AIWolf.Lib.Whisper class" Url="html/d78ffbb0-3aa5-ba3c-fc3d-f594870a0aa6.htm" />
+  <HelpKINode Title="AIWolf.Lib.XorContentBuilder class" Url="html/6f5b6041-e305-9df7-fe3e-f0f8389d00f4.htm" />
+  <HelpKINode Title="ALIVE enumeration member" Url="html/43d6671d-30e7-695f-4626-261c40cf2102.htm" />
+  <HelpKINode Title="AliveAgentList property" Url="html/baa1472a-497c-6761-66ab-275bf940bf0f.htm" />
+  <HelpKINode Title="AND enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="AndContentBuilder class">
+    <HelpKINode Title="AndContentBuilder Class" Url="html/e52d8acc-b654-8134-9c63-2ca8e70d4cf4.htm" />
+    <HelpKINode Title="constructor" Url="html/5925ad86-49ac-e042-76ae-5fa85a8dbb8d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AndContentBuilder.AndContentBuilder constructor" Url="html/5925ad86-49ac-e042-76ae-5fa85a8dbb8d.htm" />
+  <HelpKINode Title="ANY enumeration member">
+    <HelpKINode Title="Role Enumeration" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+    <HelpKINode Title="Species Enumeration" Url="html/52d816fd-1373-fd68-838d-8ea737bc02ec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ANY field" Url="html/d61de9e5-9329-de25-a286-54cc69449722.htm" />
+  <HelpKINode Title="ATTACK enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="Attack method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Attack Method " Url="html/5797eef4-9ce6-01c9-7b0e-22488b836a74.htm" />
+    <HelpKINode Title="DummyPlayer.Attack Method " Url="html/e4444ad2-45d8-0512-2a80-f8e09b95f506.htm" />
+    <HelpKINode Title="IPlayer.Attack Method " Url="html/a2d7b5e4-9c7c-6a5b-64d3-9de675b029cc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttackContentBuilder class">
+    <HelpKINode Title="AttackContentBuilder Class" Url="html/89a99be2-2f3d-6c4d-9b9e-16ace9f3f7e4.htm" />
+    <HelpKINode Title="constructor" Url="html/be34a80c-1172-59c7-490e-0f169fc554ab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttackContentBuilder.AttackContentBuilder constructor" Url="html/be34a80c-1172-59c7-490e-0f169fc554ab.htm" />
+  <HelpKINode Title="ATTACKED enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="AttackedAgent property" Url="html/f289c930-ecad-d363-27b6-b3a7413de2fe.htm" />
+  <HelpKINode Title="AttackedContentBuilder class">
+    <HelpKINode Title="AttackedContentBuilder Class" Url="html/d5111aba-067f-8250-da54-4148717cacf1.htm" />
+    <HelpKINode Title="constructor" Url="html/e3cf4bdb-4328-461b-0c87-65ee9e55a14f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttackedContentBuilder.AttackedContentBuilder constructor" Url="html/e3cf4bdb-4328-461b-0c87-65ee9e55a14f.htm" />
+  <HelpKINode Title="AttackVoteList property" Url="html/8a9b6640-e4a6-3055-c9a7-d1e368e0b009.htm" />
+  <HelpKINode Title="BECAUSE enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="BecauseContentBuilder class">
+    <HelpKINode Title="BecauseContentBuilder Class" Url="html/c4dab42d-9831-58c3-7144-079e5fa7bcbc.htm" />
+    <HelpKINode Title="constructor" Url="html/0bb87e8b-8499-aa09-523f-623359722bf7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BecauseContentBuilder.BecauseContentBuilder constructor" Url="html/0bb87e8b-8499-aa09-523f-623359722bf7.htm" />
+  <HelpKINode Title="BODYGUARD enumeration member" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="BodyguardPlayer property" Url="html/cec74e8d-5dd6-5bac-bd38-c0c0a862ad68.htm" />
+  <HelpKINode Title="COMINGOUT enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="ComingoutContentBuilder class">
+    <HelpKINode Title="ComingoutContentBuilder Class" Url="html/a86d283b-b563-9c86-1990-9695d756cf07.htm" />
+    <HelpKINode Title="constructor" Url="html/8edfba16-e191-4cce-f570-5f1313cd82e6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComingoutContentBuilder.ComingoutContentBuilder constructor" Url="html/8edfba16-e191-4cce-f570-5f1313cd82e6.htm" />
+  <HelpKINode Title="Content class">
+    <HelpKINode Title="Content Class" Url="html/14a21891-1265-56a2-e5e5-ac3ab3d3adf6.htm" />
+    <HelpKINode Title="constructor" Url="html/ca09b8a0-d590-10d4-62c3-626bdd6bf445.htm" />
+    <HelpKINode Title="fields" Url="html/5d6487d4-ea7b-35d2-e06f-3310264698ee.htm" />
+    <HelpKINode Title="methods" Url="html/f772063a-67d7-30a6-3b03-eb122b42a61d.htm" />
+    <HelpKINode Title="operators" Url="html/9e2ea2b2-ad94-1ae9-bb56-ed845ad6ca3e.htm" />
+    <HelpKINode Title="properties" Url="html/95d4b672-c6dd-4a96-ff5f-04c7172b5bd1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Content.Content constructor" Url="html/ca09b8a0-d590-10d4-62c3-626bdd6bf445.htm" />
+  <HelpKINode Title="Content.ContentList property" Url="html/7a06fbfc-3f9e-34c5-0834-a679beacba07.htm" />
+  <HelpKINode Title="Content.Day property" Url="html/ae9e162e-2aaa-749e-522d-3e8a2106a44a.htm" />
+  <HelpKINode Title="Content.Empty field" Url="html/85d5f050-87aa-0796-246e-ddb5a00dfdff.htm" />
+  <HelpKINode Title="Content.Equality operator" Url="html/26a91e94-1cbc-3c13-0df8-b8a4c714e8c5.htm" />
+  <HelpKINode Title="Content.Equals method" Url="html/3a0f33e0-578f-4909-6c50-a40f8aba5d72.htm" />
+  <HelpKINode Title="Content.GetHashCode method" Url="html/23b98b67-fe76-bbd3-ff3c-54b3081f545f.htm" />
+  <HelpKINode Title="Content.Inequality operator" Url="html/1b3aecc3-88d6-9bad-bb3b-404ef7a36fdc.htm" />
+  <HelpKINode Title="Content.Operator property" Url="html/60cf0461-62d2-369b-ccf9-a5e7acb12b2a.htm" />
+  <HelpKINode Title="Content.OVER field" Url="html/21829b79-2ab9-cffb-66f2-cb456819a76d.htm" />
+  <HelpKINode Title="Content.Result property" Url="html/c99e3c54-26f9-44bb-9a7e-54049072d685.htm" />
+  <HelpKINode Title="Content.Role property" Url="html/74abfa24-a25f-d900-7e03-12014efa9619.htm" />
+  <HelpKINode Title="Content.SKIP field" Url="html/54ebff2b-0029-799a-0164-ee7e79dd8019.htm" />
+  <HelpKINode Title="Content.StripSubject method" Url="html/174e0378-2706-40a6-af4c-5fdcf71c342f.htm" />
+  <HelpKINode Title="Content.Subject property" Url="html/9fc4de1f-3f40-6c04-3596-c09d37d9cfdd.htm" />
+  <HelpKINode Title="Content.Target property" Url="html/af6b99a0-4a13-adaf-34e1-bfa2e69c432a.htm" />
+  <HelpKINode Title="Content.Text property" Url="html/6b686dab-d4dd-b6e8-1e72-23fe9e4d1438.htm" />
+  <HelpKINode Title="Content.Topic property" Url="html/9634ebb2-c8a1-7f3c-22a2-18ad5fe64658.htm" />
+  <HelpKINode Title="Content.Utterance property" Url="html/3b68fa2f-4dcf-25a7-55bc-98be1870bf82.htm" />
+  <HelpKINode Title="ContentBuilder class" Url="html/a325324b-81f8-cc32-3793-056f49f1e08f.htm" />
+  <HelpKINode Title="ContentList property" Url="html/7a06fbfc-3f9e-34c5-0834-a679beacba07.htm" />
+  <HelpKINode Title="CursedFox property" Url="html/0d130722-b3b8-1603-ae86-4d160c9b454c.htm" />
+  <HelpKINode Title="DAY enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="Day property">
+    <HelpKINode Title="Content.Day Property " Url="html/ae9e162e-2aaa-749e-522d-3e8a2106a44a.htm" />
+    <HelpKINode Title="IGameInfo.Day Property " Url="html/d7107524-232f-0521-c3c0-f537e993c46d.htm" />
+    <HelpKINode Title="IUtterance.Day Property " Url="html/9325b25f-1d1c-59f7-f994-3b274d3614ee.htm" />
+    <HelpKINode Title="Judge.Day Property " Url="html/f58e1584-9cd2-1eba-7621-24301fa956de.htm" />
+    <HelpKINode Title="Talk.Day Property " Url="html/572158c4-316c-5e4b-e1da-bc7599acaa25.htm" />
+    <HelpKINode Title="Vote.Day Property " Url="html/ae14955c-63fa-c2a0-91ca-721545937170.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DayContentBuilder class">
+    <HelpKINode Title="DayContentBuilder Class" Url="html/9a5c684e-8a97-8adb-9da9-415b0e24c43f.htm" />
+    <HelpKINode Title="constructor" Url="html/a1d59f56-4d04-934d-b19f-a850a6df9ec4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DayContentBuilder.DayContentBuilder constructor" Url="html/a1d59f56-4d04-934d-b19f-a850a6df9ec4.htm" />
+  <HelpKINode Title="DayStart method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.DayStart Method " Url="html/efac5761-6fac-0510-6317-992f9f5b4d6b.htm" />
+    <HelpKINode Title="DummyPlayer.DayStart Method " Url="html/883b674a-8c54-40a8-ba5c-bd385bbc0885.htm" />
+    <HelpKINode Title="IPlayer.DayStart Method " Url="html/50eeee85-c6e6-217c-48da-5709d327fe1b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DEAD enumeration member" Url="html/43d6671d-30e7-695f-4626-261c40cf2102.htm" />
+  <HelpKINode Title="DISAGREE enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="DisagreeContentBuilder class">
+    <HelpKINode Title="DisagreeContentBuilder Class" Url="html/ce5f1c8e-0ff6-4867-9d47-f5bd55b0ac13.htm" />
+    <HelpKINode Title="constructor" Url="html/2368d012-d6bb-2e73-6c95-959471cc3ee2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisagreeContentBuilder.DisagreeContentBuilder constructor" Url="html/2368d012-d6bb-2e73-6c95-959471cc3ee2.htm" />
+  <HelpKINode Title="DIVINATION enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="DivinationContentBuilder class">
+    <HelpKINode Title="DivinationContentBuilder Class" Url="html/54bf8fea-cf75-5826-c3f8-9105e076cc80.htm" />
+    <HelpKINode Title="constructor" Url="html/902fe3ee-47c2-f5d5-5593-47bb72da1a4f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DivinationContentBuilder.DivinationContentBuilder constructor" Url="html/902fe3ee-47c2-f5d5-5593-47bb72da1a4f.htm" />
+  <HelpKINode Title="Divine method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Divine Method " Url="html/acb4c8f3-aa1a-5288-a4b8-dd9236ccc0d4.htm" />
+    <HelpKINode Title="DummyPlayer.Divine Method " Url="html/1de0c7b2-871e-f5ec-f513-cc07c29d3777.htm" />
+    <HelpKINode Title="IPlayer.Divine Method " Url="html/22ca80bd-143d-4052-b829-fb1a7527abdb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DIVINED enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="DivinedResultContentBuilder class">
+    <HelpKINode Title="DivinedResultContentBuilder Class" Url="html/9e24504d-9525-c9ab-de4f-e781ac190bff.htm" />
+    <HelpKINode Title="constructor" Url="html/3bddf700-b3cb-3beb-b569-4336532f6cff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DivinedResultContentBuilder.DivinedResultContentBuilder constructor" Url="html/3bddf700-b3cb-3beb-b569-4336532f6cff.htm" />
+  <HelpKINode Title="DivineResult property" Url="html/35235903-e518-237d-7111-b8b8d9c31c70.htm" />
+  <HelpKINode Title="DUMMY enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="DummyPlayer class">
+    <HelpKINode Title="DummyPlayer Class" Url="html/f9ceb83e-45b8-17a7-69cf-342af75736e4.htm" />
+    <HelpKINode Title="constructor" Url="html/f1bd3186-e495-4470-9a65-1ce4a6c344af.htm" />
+    <HelpKINode Title="methods" Url="html/5d6186c1-2005-273a-e11e-e6d21603a19f.htm" />
+    <HelpKINode Title="properties" Url="html/3152c872-7aa6-0b45-c242-d5bfe1f73b09.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DummyPlayer.Attack method" Url="html/e4444ad2-45d8-0512-2a80-f8e09b95f506.htm" />
+  <HelpKINode Title="DummyPlayer.DayStart method" Url="html/883b674a-8c54-40a8-ba5c-bd385bbc0885.htm" />
+  <HelpKINode Title="DummyPlayer.Divine method" Url="html/1de0c7b2-871e-f5ec-f513-cc07c29d3777.htm" />
+  <HelpKINode Title="DummyPlayer.DummyPlayer constructor" Url="html/f1bd3186-e495-4470-9a65-1ce4a6c344af.htm" />
+  <HelpKINode Title="DummyPlayer.Finish method" Url="html/53c0dca5-ba47-ac8b-da0d-b5778620958b.htm" />
+  <HelpKINode Title="DummyPlayer.Guard method" Url="html/58d92407-fd4f-e998-7700-2013a2a1ed72.htm" />
+  <HelpKINode Title="DummyPlayer.Initialize method" Url="html/8a1f8976-336d-cd75-41f0-9c400b726a65.htm" />
+  <HelpKINode Title="DummyPlayer.Name property" Url="html/5e545996-e5e2-62fd-b3e0-cbbfb953e581.htm" />
+  <HelpKINode Title="DummyPlayer.Talk method" Url="html/243aa86c-f913-7081-9daf-da65a7c0f58b.htm" />
+  <HelpKINode Title="DummyPlayer.Update method" Url="html/8c5ce636-641a-1528-8072-569334fd734e.htm" />
+  <HelpKINode Title="DummyPlayer.Vote method" Url="html/997aa629-da6c-af1e-52eb-54a0a084122c.htm" />
+  <HelpKINode Title="DummyPlayer.Whisper method" Url="html/cbf14242-617f-ba62-b369-f7462d5e912e.htm" />
+  <HelpKINode Title="Empty field">
+    <HelpKINode Title="Content.Empty Field" Url="html/85d5f050-87aa-0796-246e-ddb5a00dfdff.htm" />
+    <HelpKINode Title="Judge.Empty Field" Url="html/982bef2f-53b7-05c8-5a1e-e941d68805d2.htm" />
+    <HelpKINode Title="Talk.Empty Field" Url="html/21e99c82-4189-e59d-1f63-1ad09759576e.htm" />
+    <HelpKINode Title="Vote.Empty Field" Url="html/144cbf41-4d59-42e2-8509-11089d53c077.htm" />
+    <HelpKINode Title="Whisper.Empty Field" Url="html/d399f00e-8224-5d48-9237-1551da0e7baf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmptyContentBuilder class">
+    <HelpKINode Title="EmptyContentBuilder Class" Url="html/9a1baf88-44a0-602c-4a71-1e3b0b3b58a5.htm" />
+    <HelpKINode Title="constructor" Url="html/693b7b04-7cb4-a3dc-b605-04a4dde6a3b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmptyContentBuilder.EmptyContentBuilder constructor" Url="html/693b7b04-7cb4-a3dc-b605-04a4dde6a3b5.htm" />
+  <HelpKINode Title="EnableNoAttack property" Url="html/fd93bcc7-76cd-ad90-e82b-6a5194cc871c.htm" />
+  <HelpKINode Title="EnableNoExecution property" Url="html/af2be711-c467-936a-3772-2ec0c36f57b6.htm" />
+  <HelpKINode Title="Equality operator">
+    <HelpKINode Title="Content.Equality Operator " Url="html/26a91e94-1cbc-3c13-0df8-b8a4c714e8c5.htm" />
+    <HelpKINode Title="Judge.Equality Operator " Url="html/7fe61dfb-8458-9ee7-63d9-0f78436754f9.htm" />
+    <HelpKINode Title="Talk.Equality Operator " Url="html/fa74f385-d0ad-dac5-4b52-9adecb3210a8.htm" />
+    <HelpKINode Title="Vote.Equality Operator " Url="html/1680ea11-3bd5-b8dc-ac97-c4e7f9632325.htm" />
+    <HelpKINode Title="Whisper.Equality Operator " Url="html/ab40648f-9af3-7de9-d563-805979b50e21.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="Content.Equals Method " Url="html/3a0f33e0-578f-4909-6c50-a40f8aba5d72.htm" />
+    <HelpKINode Title="Judge.Equals Method " Url="html/23818016-9c13-e59e-3f76-1761cd0b6b35.htm" />
+    <HelpKINode Title="Talk.Equals Method " Url="html/4e308314-e478-86f6-0ca8-f85eaeeb49fc.htm" />
+    <HelpKINode Title="Vote.Equals Method " Url="html/b1ad5012-4521-6d9b-9721-a749e46e1327.htm" />
+    <HelpKINode Title="Whisper.Equals Method " Url="html/7f7be8b1-3244-da22-1d08-af08eafbd0c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ESTIMATE enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="EstimateContentBuilder class">
+    <HelpKINode Title="EstimateContentBuilder Class" Url="html/b0ac2d6f-c1f1-8402-ddc3-d9433675be56.htm" />
+    <HelpKINode Title="constructor" Url="html/6c38da0e-6094-7b3f-54ff-7a1f64fbf139.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EstimateContentBuilder.EstimateContentBuilder constructor" Url="html/6c38da0e-6094-7b3f-54ff-7a1f64fbf139.htm" />
+  <HelpKINode Title="ExecutedAgent property" Url="html/2ff72bde-0701-b6db-d72c-8acd6561ceb9.htm" />
+  <HelpKINode Title="ExistingRoleList property" Url="html/dd9db8b5-237c-e998-f7f9-e5283481abfd.htm" />
+  <HelpKINode Title="Finish method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Finish Method " Url="html/3c12669f-44a2-699a-0bb1-e7e59f5dfeec.htm" />
+    <HelpKINode Title="DummyPlayer.Finish Method " Url="html/53c0dca5-ba47-ac8b-da0d-b5778620958b.htm" />
+    <HelpKINode Title="IPlayer.Finish Method " Url="html/4dbc4d9b-ce1f-2da8-f291-b0589438b514.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FOX enumeration member" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="FREEMASON enumeration member" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="GetAgent method" Url="html/c7e398d8-b9cf-1f4d-9b32-e6d4b28c50c1.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="Content.GetHashCode Method " Url="html/23b98b67-fe76-bbd3-ff3c-54b3081f545f.htm" />
+    <HelpKINode Title="Judge.GetHashCode Method " Url="html/6dc38769-4b1e-37d3-ed3c-05f4171b1904.htm" />
+    <HelpKINode Title="Talk.GetHashCode Method " Url="html/fc79cae1-0835-35d2-986d-a49d7c38d9ff.htm" />
+    <HelpKINode Title="Vote.GetHashCode Method " Url="html/bdc8f7ad-2709-edae-45a9-86ed7e6c35b4.htm" />
+    <HelpKINode Title="Whisper.GetHashCode Method " Url="html/4538d05f-47eb-e656-e220-ad03bda208b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetSpecies method" Url="html/4a1dfd6f-8ee5-4211-2dbf-b1955b793209.htm" />
+  <HelpKINode Title="GetTeam method" Url="html/0da3363b-4785-4eee-93a7-471d3dc1e37f.htm" />
+  <HelpKINode Title="GUARD enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="Guard method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Guard Method " Url="html/746c1bbd-a73d-159f-5d4e-9a06f3404605.htm" />
+    <HelpKINode Title="DummyPlayer.Guard Method " Url="html/58d92407-fd4f-e998-7700-2013a2a1ed72.htm" />
+    <HelpKINode Title="IPlayer.Guard Method " Url="html/1192fc82-5116-909e-7291-f7acc67ecae0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GuardContentBuilder class">
+    <HelpKINode Title="GuardContentBuilder Class" Url="html/028b703e-0106-dd63-7b62-bd5c8734692e.htm" />
+    <HelpKINode Title="constructor" Url="html/1e80b727-a06d-cd1b-b10f-67434b245814.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GuardContentBuilder.GuardContentBuilder constructor" Url="html/1e80b727-a06d-cd1b-b10f-67434b245814.htm" />
+  <HelpKINode Title="GUARDED enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="GuardedAgent property" Url="html/01a2a510-d9e2-92ca-7863-f25d6434f3fc.htm" />
+  <HelpKINode Title="GuardedAgentContentBuilder class">
+    <HelpKINode Title="GuardedAgentContentBuilder Class" Url="html/4297cbe0-ca1f-f518-9029-371b3585faf4.htm" />
+    <HelpKINode Title="constructor" Url="html/4a9a2058-0cbf-3601-f962-6bc667262f88.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GuardedAgentContentBuilder.GuardedAgentContentBuilder constructor" Url="html/4a9a2058-0cbf-3601-f962-6bc667262f88.htm" />
+  <HelpKINode Title="HUMAN enumeration member" Url="html/52d816fd-1373-fd68-838d-8ea737bc02ec.htm" />
+  <HelpKINode Title="IdentContentBuilder class">
+    <HelpKINode Title="IdentContentBuilder Class" Url="html/9c7b9de7-fedb-1203-cfc2-edbcc7481512.htm" />
+    <HelpKINode Title="constructor" Url="html/9f48dbb7-df31-a5bd-dfa6-b8c2d150cda1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IdentContentBuilder.IdentContentBuilder constructor" Url="html/9f48dbb7-df31-a5bd-dfa6-b8c2d150cda1.htm" />
+  <HelpKINode Title="IDENTIFIED enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="Idx property">
+    <HelpKINode Title="IUtterance.Idx Property " Url="html/76e62587-20a3-c496-0425-0440ebb8dfa8.htm" />
+    <HelpKINode Title="Talk.Idx Property " Url="html/825896e8-f7c5-0a25-85a9-9f62905f3f52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGameInfo interface">
+    <HelpKINode Title="IGameInfo Interface" Url="html/4d38b21f-3be3-a916-ed1b-1305b6b76842.htm" />
+    <HelpKINode Title="properties" Url="html/58679e75-fc9d-ad98-4224-495f51952758.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGameInfo.Agent property" Url="html/48b0095d-fa29-7346-9416-471eabc551e4.htm" />
+  <HelpKINode Title="IGameInfo.AgentList property" Url="html/f2f9b2e3-fa18-4b11-9011-bd8c06a9569d.htm" />
+  <HelpKINode Title="IGameInfo.AliveAgentList property" Url="html/baa1472a-497c-6761-66ab-275bf940bf0f.htm" />
+  <HelpKINode Title="IGameInfo.AttackedAgent property" Url="html/f289c930-ecad-d363-27b6-b3a7413de2fe.htm" />
+  <HelpKINode Title="IGameInfo.AttackVoteList property" Url="html/8a9b6640-e4a6-3055-c9a7-d1e368e0b009.htm" />
+  <HelpKINode Title="IGameInfo.CursedFox property" Url="html/0d130722-b3b8-1603-ae86-4d160c9b454c.htm" />
+  <HelpKINode Title="IGameInfo.Day property" Url="html/d7107524-232f-0521-c3c0-f537e993c46d.htm" />
+  <HelpKINode Title="IGameInfo.DivineResult property" Url="html/35235903-e518-237d-7111-b8b8d9c31c70.htm" />
+  <HelpKINode Title="IGameInfo.ExecutedAgent property" Url="html/2ff72bde-0701-b6db-d72c-8acd6561ceb9.htm" />
+  <HelpKINode Title="IGameInfo.ExistingRoleList property" Url="html/dd9db8b5-237c-e998-f7f9-e5283481abfd.htm" />
+  <HelpKINode Title="IGameInfo.GuardedAgent property" Url="html/01a2a510-d9e2-92ca-7863-f25d6434f3fc.htm" />
+  <HelpKINode Title="IGameInfo.LastDeadAgentList property" Url="html/431c9a8c-54c6-1d7b-4797-f2f6571356d0.htm" />
+  <HelpKINode Title="IGameInfo.LatestAttackVoteList property" Url="html/9bcac101-2e20-c8b8-1448-60e56126ab5e.htm" />
+  <HelpKINode Title="IGameInfo.LatestExecutedAgent property" Url="html/7f2c5bdc-2e52-0307-0e37-daa43d1c0ecf.htm" />
+  <HelpKINode Title="IGameInfo.LatestVoteList property" Url="html/d7cdbbac-28f6-f5a8-1692-b3d9e051d707.htm" />
+  <HelpKINode Title="IGameInfo.MediumResult property" Url="html/0b77141b-3262-6d79-4327-64b9f0f34e00.htm" />
+  <HelpKINode Title="IGameInfo.RemainTalkMap property" Url="html/d80f17c3-5662-91d3-fe37-3c7bcd9c2f7c.htm" />
+  <HelpKINode Title="IGameInfo.RemainWhisperMap property" Url="html/95693b10-3c12-30ef-4903-58f315fe9688.htm" />
+  <HelpKINode Title="IGameInfo.Role property" Url="html/c1699efe-a119-acd3-e365-13674542a286.htm" />
+  <HelpKINode Title="IGameInfo.RoleMap property" Url="html/de9673ae-fb5b-0c67-3e61-522080e4132c.htm" />
+  <HelpKINode Title="IGameInfo.StatusMap property" Url="html/5f7d24e1-3ee4-8295-6cd8-b3e240cd2cde.htm" />
+  <HelpKINode Title="IGameInfo.TalkList property" Url="html/a43812d6-1625-51d6-03e7-fc2145c678ab.htm" />
+  <HelpKINode Title="IGameInfo.VoteList property" Url="html/0377266e-7acc-ea8b-05e8-902f9d19307a.htm" />
+  <HelpKINode Title="IGameInfo.WhisperList property" Url="html/f02c5f08-0b9b-b118-be3a-653ddf1e419e.htm" />
+  <HelpKINode Title="IGameSetting interface">
+    <HelpKINode Title="IGameSetting Interface" Url="html/90cb70d0-2bc0-bd01-0671-bf9ec9089453.htm" />
+    <HelpKINode Title="properties" Url="html/fd1d4d6a-e1f2-a918-a85e-0d3251e42c9e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGameSetting.EnableNoAttack property" Url="html/fd93bcc7-76cd-ad90-e82b-6a5194cc871c.htm" />
+  <HelpKINode Title="IGameSetting.EnableNoExecution property" Url="html/af2be711-c467-936a-3772-2ec0c36f57b6.htm" />
+  <HelpKINode Title="IGameSetting.MaxAttackRevote property" Url="html/f38d19fc-5be0-ce9a-f410-6c13fc192f10.htm" />
+  <HelpKINode Title="IGameSetting.MaxRevote property" Url="html/25b1c84f-a770-74bf-93ab-7b51f2264759.htm" />
+  <HelpKINode Title="IGameSetting.MaxSkip property" Url="html/44ddd299-054b-b5dd-68c4-a845ffdf451a.htm" />
+  <HelpKINode Title="IGameSetting.MaxTalk property" Url="html/6c932865-bd63-8994-0a74-6d357b5125af.htm" />
+  <HelpKINode Title="IGameSetting.MaxTalkTurn property" Url="html/0d619614-06e0-606a-0a64-412dc9eed56b.htm" />
+  <HelpKINode Title="IGameSetting.MaxWhisper property" Url="html/a9404fae-a954-bb01-710c-b1edc3ee9198.htm" />
+  <HelpKINode Title="IGameSetting.MaxWhisperTurn property" Url="html/1fb69082-f825-4c44-fbc1-9958e3ae61eb.htm" />
+  <HelpKINode Title="IGameSetting.PlayerNum property" Url="html/b04e5519-363e-2c1c-7bee-a77f9a4ac514.htm" />
+  <HelpKINode Title="IGameSetting.RandomSeed property" Url="html/3722eca4-ca18-80bf-505d-876c1f8755a1.htm" />
+  <HelpKINode Title="IGameSetting.RoleNumMap property" Url="html/1117d1e4-bd3a-a41b-226c-bbeb5c9b04c0.htm" />
+  <HelpKINode Title="IGameSetting.TalkOnFirstDay property" Url="html/89ed7ea5-e20c-3451-5d6a-d7a96eea7bd4.htm" />
+  <HelpKINode Title="IGameSetting.TimeLimit property" Url="html/ff88a004-dfd5-341f-99b1-ecedf5da9dda.htm" />
+  <HelpKINode Title="IGameSetting.ValidateUtterance property" Url="html/30b85cde-1ddc-ba7d-b721-d5799bc26e78.htm" />
+  <HelpKINode Title="IGameSetting.VotableOnFirstDay property" Url="html/d4651261-5076-adad-2874-3d408424c816.htm" />
+  <HelpKINode Title="IGameSetting.VoteVisible property" Url="html/c9451d2b-13bb-1a85-348c-65512721db72.htm" />
+  <HelpKINode Title="IGameSetting.WhisperBeforeRevote property" Url="html/8c4d5428-7375-7142-b9e3-1a8eb40fdc8b.htm" />
+  <HelpKINode Title="Inequality operator">
+    <HelpKINode Title="Content.Inequality Operator " Url="html/1b3aecc3-88d6-9bad-bb3b-404ef7a36fdc.htm" />
+    <HelpKINode Title="Judge.Inequality Operator " Url="html/e513e0f0-fdf8-02fb-ba08-4450641858ec.htm" />
+    <HelpKINode Title="Talk.Inequality Operator " Url="html/5a1d54f5-2659-91b5-7a88-45d950288b96.htm" />
+    <HelpKINode Title="Vote.Inequality Operator " Url="html/1873e7f4-cd89-fd07-03cc-1c830c25c8c0.htm" />
+    <HelpKINode Title="Whisper.Inequality Operator " Url="html/ee2b5732-081b-0531-6019-c22ed9236221.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Initialize method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Initialize Method " Url="html/d3283b8b-4886-378e-71e6-b8560ed72f68.htm" />
+    <HelpKINode Title="DummyPlayer.Initialize Method " Url="html/8a1f8976-336d-cd75-41f0-9c400b726a65.htm" />
+    <HelpKINode Title="IPlayer.Initialize Method " Url="html/7efba62f-3fa4-5641-3618-0d6ef290cf44.htm" />
+  </HelpKINode>
+  <HelpKINode Title="INQUIRE enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="InquiryContentBuilder class">
+    <HelpKINode Title="InquiryContentBuilder Class" Url="html/b75a85ae-7db3-f258-f221-51519d7201be.htm" />
+    <HelpKINode Title="constructor" Url="html/e623eaba-fa89-1c86-55ae-f5032ec45650.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InquiryContentBuilder.InquiryContentBuilder constructor" Url="html/e623eaba-fa89-1c86-55ae-f5032ec45650.htm" />
+  <HelpKINode Title="IPlayer interface">
+    <HelpKINode Title="IPlayer Interface" Url="html/e1f54d81-7fda-51ec-9d26-599278fc794e.htm" />
+    <HelpKINode Title="methods" Url="html/fa10d65d-f58a-baab-4e35-6a23fc958377.htm" />
+    <HelpKINode Title="properties" Url="html/9bc66ddb-d6f7-9de7-7c9e-089514a1baa7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPlayer.Attack method" Url="html/a2d7b5e4-9c7c-6a5b-64d3-9de675b029cc.htm" />
+  <HelpKINode Title="IPlayer.DayStart method" Url="html/50eeee85-c6e6-217c-48da-5709d327fe1b.htm" />
+  <HelpKINode Title="IPlayer.Divine method" Url="html/22ca80bd-143d-4052-b829-fb1a7527abdb.htm" />
+  <HelpKINode Title="IPlayer.Finish method" Url="html/4dbc4d9b-ce1f-2da8-f291-b0589438b514.htm" />
+  <HelpKINode Title="IPlayer.Guard method" Url="html/1192fc82-5116-909e-7291-f7acc67ecae0.htm" />
+  <HelpKINode Title="IPlayer.Initialize method" Url="html/7efba62f-3fa4-5641-3618-0d6ef290cf44.htm" />
+  <HelpKINode Title="IPlayer.Name property" Url="html/92d29e62-d55d-8641-b695-b1571305c601.htm" />
+  <HelpKINode Title="IPlayer.Talk method" Url="html/ae811323-2ae4-051f-da4a-6a5532ea8ad2.htm" />
+  <HelpKINode Title="IPlayer.Update method" Url="html/1cbad7bb-0513-3b80-9ecf-fdc54fdb188f.htm" />
+  <HelpKINode Title="IPlayer.Vote method" Url="html/a177d1d3-1418-114f-ee9e-5a709ff19650.htm" />
+  <HelpKINode Title="IPlayer.Whisper method" Url="html/932575f3-1469-ecfc-595f-2b848f2c9726.htm" />
+  <HelpKINode Title="IUtterance interface">
+    <HelpKINode Title="IUtterance Interface" Url="html/1d2a3107-abe8-4d09-6e4a-373b9d32d3f6.htm" />
+    <HelpKINode Title="properties" Url="html/1bd125a6-557e-4b70-2933-83004aa0aebd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUtterance.Agent property" Url="html/5cf39893-a3ae-2603-68f1-26b1ca65566c.htm" />
+  <HelpKINode Title="IUtterance.Day property" Url="html/9325b25f-1d1c-59f7-f994-3b274d3614ee.htm" />
+  <HelpKINode Title="IUtterance.Idx property" Url="html/76e62587-20a3-c496-0425-0440ebb8dfa8.htm" />
+  <HelpKINode Title="IUtterance.Text property" Url="html/0c94fb8b-74e4-d9c2-7b13-9386851fc91e.htm" />
+  <HelpKINode Title="IUtterance.Turn property" Url="html/713938cd-de25-7aeb-0e13-3065fc909d54.htm" />
+  <HelpKINode Title="Judge class">
+    <HelpKINode Title="Judge Class" Url="html/b22c8362-3621-15c5-94d0-ddf70ce16064.htm" />
+    <HelpKINode Title="constructor" Url="html/1c4e6dab-c234-cec3-e286-1a303ab6d8ed.htm" />
+    <HelpKINode Title="fields" Url="html/d2c59f1e-3935-1e04-388f-9c75aa36a775.htm" />
+    <HelpKINode Title="methods" Url="html/711fb5ea-461c-6426-069c-06d6b9aab83a.htm" />
+    <HelpKINode Title="operators" Url="html/8e04aa8d-2ab7-dcfb-d1b6-fc027ffa9518.htm" />
+    <HelpKINode Title="properties" Url="html/96519404-2a49-1eab-5f9b-97d496753c39.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Judge.Agent property" Url="html/100b4b0b-80fd-12cf-5ae0-be3b414100ca.htm" />
+  <HelpKINode Title="Judge.Day property" Url="html/f58e1584-9cd2-1eba-7621-24301fa956de.htm" />
+  <HelpKINode Title="Judge.Empty field" Url="html/982bef2f-53b7-05c8-5a1e-e941d68805d2.htm" />
+  <HelpKINode Title="Judge.Equality operator" Url="html/7fe61dfb-8458-9ee7-63d9-0f78436754f9.htm" />
+  <HelpKINode Title="Judge.Equals method" Url="html/23818016-9c13-e59e-3f76-1761cd0b6b35.htm" />
+  <HelpKINode Title="Judge.GetHashCode method" Url="html/6dc38769-4b1e-37d3-ed3c-05f4171b1904.htm" />
+  <HelpKINode Title="Judge.Inequality operator" Url="html/e513e0f0-fdf8-02fb-ba08-4450641858ec.htm" />
+  <HelpKINode Title="Judge.Judge constructor" Url="html/1c4e6dab-c234-cec3-e286-1a303ab6d8ed.htm" />
+  <HelpKINode Title="Judge.Result property" Url="html/b000bacb-ead4-7e4f-aa15-bcf22a44cbb4.htm" />
+  <HelpKINode Title="Judge.Target property" Url="html/086263dd-d3a7-b2bc-5695-221eadd6e74c.htm" />
+  <HelpKINode Title="Judge.ToString method" Url="html/234efd4b-e515-c472-77f9-d1f86468df40.htm" />
+  <HelpKINode Title="LastDeadAgentList property" Url="html/431c9a8c-54c6-1d7b-4797-f2f6571356d0.htm" />
+  <HelpKINode Title="LatestAttackVoteList property" Url="html/9bcac101-2e20-c8b8-1448-60e56126ab5e.htm" />
+  <HelpKINode Title="LatestExecutedAgent property" Url="html/7f2c5bdc-2e52-0307-0e37-daa43d1c0ecf.htm" />
+  <HelpKINode Title="LatestVoteList property" Url="html/d7cdbbac-28f6-f5a8-1692-b3d9e051d707.htm" />
+  <HelpKINode Title="MaxAttackRevote property" Url="html/f38d19fc-5be0-ce9a-f410-6c13fc192f10.htm" />
+  <HelpKINode Title="MaxRevote property" Url="html/25b1c84f-a770-74bf-93ab-7b51f2264759.htm" />
+  <HelpKINode Title="MaxSkip property" Url="html/44ddd299-054b-b5dd-68c4-a845ffdf451a.htm" />
+  <HelpKINode Title="MaxTalk property" Url="html/6c932865-bd63-8994-0a74-6d357b5125af.htm" />
+  <HelpKINode Title="MaxTalkTurn property" Url="html/0d619614-06e0-606a-0a64-412dc9eed56b.htm" />
+  <HelpKINode Title="MaxWhisper property" Url="html/a9404fae-a954-bb01-710c-b1edc3ee9198.htm" />
+  <HelpKINode Title="MaxWhisperTurn property" Url="html/1fb69082-f825-4c44-fbc1-9958e3ae61eb.htm" />
+  <HelpKINode Title="MEDIUM enumeration member" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="MediumPlayer property" Url="html/58e2b43d-78b6-7119-5186-e6b5828e70f5.htm" />
+  <HelpKINode Title="MediumResult property" Url="html/0b77141b-3262-6d79-4327-64b9f0f34e00.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Name Property " Url="html/f8d48ea6-d37c-886f-e0c2-aa69c2483611.htm" />
+    <HelpKINode Title="DummyPlayer.Name Property " Url="html/5e545996-e5e2-62fd-b3e0-cbbfb953e581.htm" />
+    <HelpKINode Title="IPlayer.Name Property " Url="html/92d29e62-d55d-8641-b695-b1571305c601.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NONE field" Url="html/8868d961-1ae5-299b-75fe-5b9b221c2855.htm" />
+  <HelpKINode Title="NOP enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="NOT enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="NotContentBuilder class">
+    <HelpKINode Title="NotContentBuilder Class" Url="html/f41d6705-1d09-51aa-aacb-f9d92b5b61c2.htm" />
+    <HelpKINode Title="constructor" Url="html/33519e38-b95d-076b-3c07-31d2428db82c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NotContentBuilder.NotContentBuilder constructor" Url="html/33519e38-b95d-076b-3c07-31d2428db82c.htm" />
+  <HelpKINode Title="Operator enumeration" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="OPERATOR enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="Operator property" Url="html/60cf0461-62d2-369b-ccf9-a5e7acb12b2a.htm" />
+  <HelpKINode Title="OR enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="OrContentBuilder class">
+    <HelpKINode Title="OrContentBuilder Class" Url="html/f64981bd-a2af-127c-3811-852b169c2606.htm" />
+    <HelpKINode Title="constructor" Url="html/c2d7be7c-e3c3-8337-10af-f1758cf7dacd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrContentBuilder.OrContentBuilder constructor" Url="html/c2d7be7c-e3c3-8337-10af-f1758cf7dacd.htm" />
+  <HelpKINode Title="OTHERS enumeration member" Url="html/90a3bfd2-4a2b-3d2a-ff98-78d98ff2078b.htm" />
+  <HelpKINode Title="Over enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="OVER field">
+    <HelpKINode Title="Content.OVER Field" Url="html/21829b79-2ab9-cffb-66f2-cb456819a76d.htm" />
+    <HelpKINode Title="Talk.OVER Field" Url="html/ed8432a1-39e7-3b7c-670d-e85fca0fa703.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OverContentBuilder class">
+    <HelpKINode Title="OverContentBuilder Class" Url="html/52e232ea-11d7-9982-4ed9-83247416c17e.htm" />
+    <HelpKINode Title="constructor" Url="html/b99d09da-93d4-bfb9-45d0-f8e681eeeb01.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OverContentBuilder.OverContentBuilder constructor" Url="html/b99d09da-93d4-bfb9-45d0-f8e681eeeb01.htm" />
+  <HelpKINode Title="PlayerNum property" Url="html/b04e5519-363e-2c1c-7bee-a77f9a4ac514.htm" />
+  <HelpKINode Title="POSSESSED enumeration member" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="PossessedPlayer property" Url="html/324c2e84-f22c-31e2-4092-47b2f5901f7a.htm" />
+  <HelpKINode Title="RandomSeed property" Url="html/3722eca4-ca18-80bf-505d-876c1f8755a1.htm" />
+  <HelpKINode Title="RemainTalkMap property" Url="html/d80f17c3-5662-91d3-fe37-3c7bcd9c2f7c.htm" />
+  <HelpKINode Title="RemainWhisperMap property" Url="html/95693b10-3c12-30ef-4903-58f315fe9688.htm" />
+  <HelpKINode Title="REQUEST enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="RequestContentBuilder class">
+    <HelpKINode Title="RequestContentBuilder Class" Url="html/55c16766-eaf9-e65c-76dc-61b5920ca9f1.htm" />
+    <HelpKINode Title="constructor" Url="html/cfebdc28-0cab-f0ff-1c73-e8a9e0eabd66.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestContentBuilder.RequestContentBuilder constructor" Url="html/cfebdc28-0cab-f0ff-1c73-e8a9e0eabd66.htm" />
+  <HelpKINode Title="Result property">
+    <HelpKINode Title="Content.Result Property " Url="html/c99e3c54-26f9-44bb-9a7e-54049072d685.htm" />
+    <HelpKINode Title="Judge.Result Property " Url="html/b000bacb-ead4-7e4f-aa15-bcf22a44cbb4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Role enumeration" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="Role property">
+    <HelpKINode Title="Content.Role Property " Url="html/74abfa24-a25f-d900-7e03-12014efa9619.htm" />
+    <HelpKINode Title="IGameInfo.Role Property " Url="html/c1699efe-a119-acd3-e365-13674542a286.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RoleExtensions class">
+    <HelpKINode Title="RoleExtensions Class" Url="html/69948933-bd83-983d-5c29-50a7fcc6dd33.htm" />
+    <HelpKINode Title="methods" Url="html/451719e4-02f5-65ff-2606-a3517f924b51.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RoleExtensions.GetSpecies method" Url="html/4a1dfd6f-8ee5-4211-2dbf-b1955b793209.htm" />
+  <HelpKINode Title="RoleExtensions.GetTeam method" Url="html/0da3363b-4785-4eee-93a7-471d3dc1e37f.htm" />
+  <HelpKINode Title="RoleMap property" Url="html/de9673ae-fb5b-0c67-3e61-522080e4132c.htm" />
+  <HelpKINode Title="RoleNumMap property" Url="html/1117d1e4-bd3a-a41b-226c-bbeb5c9b04c0.htm" />
+  <HelpKINode Title="SEER enumeration member" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+  <HelpKINode Title="SeerPlayer property" Url="html/3e112374-a0be-4c9a-6407-5ea22e13936a.htm" />
+  <HelpKINode Title="Shuffle(Of T) method" Url="html/912cee7d-9b99-eb8a-345b-6757a17a504e.htm" />
+  <HelpKINode Title="Shuffle&lt;T&gt; method" Url="html/912cee7d-9b99-eb8a-345b-6757a17a504e.htm" />
+  <HelpKINode Title="ShuffleExtensions class">
+    <HelpKINode Title="ShuffleExtensions Class" Url="html/608b6dfe-890a-4679-d8e7-dfc0decc74fe.htm" />
+    <HelpKINode Title="methods" Url="html/259ef7b3-7b1a-ceaf-5fff-98a61d1a8751.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShuffleExtensions.Shuffle(Of T) method" Url="html/912cee7d-9b99-eb8a-345b-6757a17a504e.htm" />
+  <HelpKINode Title="ShuffleExtensions.Shuffle&lt;T&gt; method" Url="html/912cee7d-9b99-eb8a-345b-6757a17a504e.htm" />
+  <HelpKINode Title="Skip enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="SKIP field">
+    <HelpKINode Title="Content.SKIP Field" Url="html/54ebff2b-0029-799a-0164-ee7e79dd8019.htm" />
+    <HelpKINode Title="Talk.SKIP Field" Url="html/0f7ff74c-b403-9219-d1f7-8cb740f09004.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SkipContentBuilder class">
+    <HelpKINode Title="SkipContentBuilder Class" Url="html/28931834-83e1-72d2-fc83-11da6721bc06.htm" />
+    <HelpKINode Title="constructor" Url="html/d5d1d825-ffa4-cd53-8d00-9c7b09fd8bff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SkipContentBuilder.SkipContentBuilder constructor" Url="html/d5d1d825-ffa4-cd53-8d00-9c7b09fd8bff.htm" />
+  <HelpKINode Title="Species enumeration" Url="html/52d816fd-1373-fd68-838d-8ea737bc02ec.htm" />
+  <HelpKINode Title="Status enumeration" Url="html/43d6671d-30e7-695f-4626-261c40cf2102.htm" />
+  <HelpKINode Title="StatusMap property" Url="html/5f7d24e1-3ee4-8295-6cd8-b3e240cd2cde.htm" />
+  <HelpKINode Title="StripSubject method" Url="html/174e0378-2706-40a6-af4c-5fdcf71c342f.htm" />
+  <HelpKINode Title="Subject property" Url="html/9fc4de1f-3f40-6c04-3596-c09d37d9cfdd.htm" />
+  <HelpKINode Title="Talk class">
+    <HelpKINode Title="Talk Class" Url="html/c86ddbc5-3995-9d7f-79a0-aa75b7479a73.htm" />
+    <HelpKINode Title="constructor" Url="html/edcc092b-a619-e2e9-c4f6-359f4289d173.htm" />
+    <HelpKINode Title="fields" Url="html/8fdac0ec-4d7d-6116-c0df-417905fae95c.htm" />
+    <HelpKINode Title="methods" Url="html/50da0907-0e90-1577-da6d-76d4eb4a55f3.htm" />
+    <HelpKINode Title="operators" Url="html/586f112f-c2a2-28b6-2e8e-83a8789fc9f4.htm" />
+    <HelpKINode Title="properties" Url="html/87442f2d-9cf4-d0cd-a09a-0407345ab781.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TALK enumeration member" Url="html/ce4482e3-e369-9b1b-a057-7a89ba4c02e8.htm" />
+  <HelpKINode Title="Talk method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Talk Method " Url="html/dd22164b-e06c-f1cd-f425-d7e260ea1a1d.htm" />
+    <HelpKINode Title="DummyPlayer.Talk Method " Url="html/243aa86c-f913-7081-9daf-da65a7c0f58b.htm" />
+    <HelpKINode Title="IPlayer.Talk Method " Url="html/ae811323-2ae4-051f-da4a-6a5532ea8ad2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Talk.Agent property" Url="html/6649307a-9209-4d3a-d67a-446fc26eaa78.htm" />
+  <HelpKINode Title="Talk.Day property" Url="html/572158c4-316c-5e4b-e1da-bc7599acaa25.htm" />
+  <HelpKINode Title="Talk.Empty field" Url="html/21e99c82-4189-e59d-1f63-1ad09759576e.htm" />
+  <HelpKINode Title="Talk.Equality operator" Url="html/fa74f385-d0ad-dac5-4b52-9adecb3210a8.htm" />
+  <HelpKINode Title="Talk.Equals method" Url="html/4e308314-e478-86f6-0ca8-f85eaeeb49fc.htm" />
+  <HelpKINode Title="Talk.GetHashCode method" Url="html/fc79cae1-0835-35d2-986d-a49d7c38d9ff.htm" />
+  <HelpKINode Title="Talk.Idx property" Url="html/825896e8-f7c5-0a25-85a9-9f62905f3f52.htm" />
+  <HelpKINode Title="Talk.Inequality operator" Url="html/5a1d54f5-2659-91b5-7a88-45d950288b96.htm" />
+  <HelpKINode Title="Talk.OVER field" Url="html/ed8432a1-39e7-3b7c-670d-e85fca0fa703.htm" />
+  <HelpKINode Title="Talk.SKIP field" Url="html/0f7ff74c-b403-9219-d1f7-8cb740f09004.htm" />
+  <HelpKINode Title="Talk.Talk constructor" Url="html/edcc092b-a619-e2e9-c4f6-359f4289d173.htm" />
+  <HelpKINode Title="Talk.Text property" Url="html/87ad705b-52b8-d38f-7184-921429ca0ce5.htm" />
+  <HelpKINode Title="Talk.ToString method" Url="html/1e80033f-598c-d342-cb66-7324d0877ea9.htm" />
+  <HelpKINode Title="Talk.Turn property" Url="html/303d62fe-a798-4bcf-0e45-67ec17caf660.htm" />
+  <HelpKINode Title="TalkList property" Url="html/a43812d6-1625-51d6-03e7-fc2145c678ab.htm" />
+  <HelpKINode Title="TalkOnFirstDay property" Url="html/89ed7ea5-e20c-3451-5d6a-d7a96eea7bd4.htm" />
+  <HelpKINode Title="Target property">
+    <HelpKINode Title="Content.Target Property " Url="html/af6b99a0-4a13-adaf-34e1-bfa2e69c432a.htm" />
+    <HelpKINode Title="Judge.Target Property " Url="html/086263dd-d3a7-b2bc-5695-221eadd6e74c.htm" />
+    <HelpKINode Title="Vote.Target Property " Url="html/8f06987e-c7c5-74fb-51d7-af5c3197cc68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Team enumeration" Url="html/90a3bfd2-4a2b-3d2a-ff98-78d98ff2078b.htm" />
+  <HelpKINode Title="Text property">
+    <HelpKINode Title="Content.Text Property " Url="html/6b686dab-d4dd-b6e8-1e72-23fe9e4d1438.htm" />
+    <HelpKINode Title="IUtterance.Text Property " Url="html/0c94fb8b-74e4-d9c2-7b13-9386851fc91e.htm" />
+    <HelpKINode Title="Talk.Text Property " Url="html/87ad705b-52b8-d38f-7184-921429ca0ce5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TimeLimit property" Url="html/ff88a004-dfd5-341f-99b1-ecedf5da9dda.htm" />
+  <HelpKINode Title="Topic enumeration" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="Topic property" Url="html/9634ebb2-c8a1-7f3c-22a2-18ad5fe64658.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="Agent.ToString Method " Url="html/a92b5740-12b1-c3a7-68e1-0b099d03137d.htm" />
+    <HelpKINode Title="Judge.ToString Method " Url="html/234efd4b-e515-c472-77f9-d1f86468df40.htm" />
+    <HelpKINode Title="Talk.ToString Method " Url="html/1e80033f-598c-d342-cb66-7324d0877ea9.htm" />
+    <HelpKINode Title="Vote.ToString Method " Url="html/3de2e8ce-6ff3-23ca-fa63-5e06dc6e5d48.htm" />
+    <HelpKINode Title="Whisper.ToString Method " Url="html/f8e85a88-b52c-d843-7b64-08a2c7481da2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Turn property">
+    <HelpKINode Title="IUtterance.Turn Property " Url="html/713938cd-de25-7aeb-0e13-3065fc909d54.htm" />
+    <HelpKINode Title="Talk.Turn Property " Url="html/303d62fe-a798-4bcf-0e45-67ec17caf660.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UNC enumeration member">
+    <HelpKINode Title="Role Enumeration" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+    <HelpKINode Title="Species Enumeration" Url="html/52d816fd-1373-fd68-838d-8ea737bc02ec.htm" />
+    <HelpKINode Title="Status Enumeration" Url="html/43d6671d-30e7-695f-4626-261c40cf2102.htm" />
+    <HelpKINode Title="Team Enumeration" Url="html/90a3bfd2-4a2b-3d2a-ff98-78d98ff2078b.htm" />
+    <HelpKINode Title="UtteranceType Enumeration" Url="html/ce4482e3-e369-9b1b-a057-7a89ba4c02e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Update Method " Url="html/02a78045-2043-5f00-1214-819176abdf37.htm" />
+    <HelpKINode Title="DummyPlayer.Update Method " Url="html/8c5ce636-641a-1528-8072-569334fd734e.htm" />
+    <HelpKINode Title="IPlayer.Update Method " Url="html/1cbad7bb-0513-3b80-9ecf-fdc54fdb188f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Utterance property" Url="html/3b68fa2f-4dcf-25a7-55bc-98be1870bf82.htm" />
+  <HelpKINode Title="UtteranceType enumeration" Url="html/ce4482e3-e369-9b1b-a057-7a89ba4c02e8.htm" />
+  <HelpKINode Title="ValidateUtterance property" Url="html/30b85cde-1ddc-ba7d-b721-d5799bc26e78.htm" />
+  <HelpKINode Title="VILLAGER enumeration member">
+    <HelpKINode Title="Role Enumeration" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+    <HelpKINode Title="Team Enumeration" Url="html/90a3bfd2-4a2b-3d2a-ff98-78d98ff2078b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VillagerPlayer property" Url="html/582c292b-8c52-2b8e-db85-9e42a87609b6.htm" />
+  <HelpKINode Title="VotableOnFirstDay property" Url="html/d4651261-5076-adad-2874-3d408424c816.htm" />
+  <HelpKINode Title="Vote class">
+    <HelpKINode Title="Vote Class" Url="html/da8f9d8d-4ce2-188a-d1c8-fbd1af04c236.htm" />
+    <HelpKINode Title="constructor" Url="html/73b282a0-13ba-8ba5-6a01-13ed8a705c07.htm" />
+    <HelpKINode Title="fields" Url="html/fa6c0af3-8ff8-aa90-98dd-41471087d633.htm" />
+    <HelpKINode Title="methods" Url="html/3d9de5b4-1e84-99fe-f5fb-590e47f53cbe.htm" />
+    <HelpKINode Title="operators" Url="html/95a3d4ff-9d1d-98bc-5406-037705e28f61.htm" />
+    <HelpKINode Title="properties" Url="html/d22e3c24-0c2e-5b64-48c4-e045aecf676d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VOTE enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="Vote method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Vote Method " Url="html/33805904-d70d-082e-6e05-ae957a438075.htm" />
+    <HelpKINode Title="DummyPlayer.Vote Method " Url="html/997aa629-da6c-af1e-52eb-54a0a084122c.htm" />
+    <HelpKINode Title="IPlayer.Vote Method " Url="html/a177d1d3-1418-114f-ee9e-5a709ff19650.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vote.Agent property" Url="html/b21b891a-9c90-1b3f-fdda-3b0e56447b1d.htm" />
+  <HelpKINode Title="Vote.Day property" Url="html/ae14955c-63fa-c2a0-91ca-721545937170.htm" />
+  <HelpKINode Title="Vote.Empty field" Url="html/144cbf41-4d59-42e2-8509-11089d53c077.htm" />
+  <HelpKINode Title="Vote.Equality operator" Url="html/1680ea11-3bd5-b8dc-ac97-c4e7f9632325.htm" />
+  <HelpKINode Title="Vote.Equals method" Url="html/b1ad5012-4521-6d9b-9721-a749e46e1327.htm" />
+  <HelpKINode Title="Vote.GetHashCode method" Url="html/bdc8f7ad-2709-edae-45a9-86ed7e6c35b4.htm" />
+  <HelpKINode Title="Vote.Inequality operator" Url="html/1873e7f4-cd89-fd07-03cc-1c830c25c8c0.htm" />
+  <HelpKINode Title="Vote.Target property" Url="html/8f06987e-c7c5-74fb-51d7-af5c3197cc68.htm" />
+  <HelpKINode Title="Vote.ToString method" Url="html/3de2e8ce-6ff3-23ca-fa63-5e06dc6e5d48.htm" />
+  <HelpKINode Title="Vote.Vote constructor" Url="html/73b282a0-13ba-8ba5-6a01-13ed8a705c07.htm" />
+  <HelpKINode Title="VoteContentBuilder class">
+    <HelpKINode Title="VoteContentBuilder Class" Url="html/36be7a8f-6557-5944-397e-4f9e30f4a0fd.htm" />
+    <HelpKINode Title="constructor" Url="html/0542c3da-762c-c3cc-a5f9-d3739cb090f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VoteContentBuilder.VoteContentBuilder constructor" Url="html/0542c3da-762c-c3cc-a5f9-d3739cb090f9.htm" />
+  <HelpKINode Title="VOTED enumeration member" Url="html/926035b6-22cd-1d8f-b4cb-8fc2f4a43911.htm" />
+  <HelpKINode Title="VotedContentBuilder class">
+    <HelpKINode Title="VotedContentBuilder Class" Url="html/b7eacc51-6dbe-5997-24da-e8e62b0ab7c2.htm" />
+    <HelpKINode Title="constructor" Url="html/0243ca78-89e7-a72b-4dd7-5a7a83ee04c9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VotedContentBuilder.VotedContentBuilder constructor" Url="html/0243ca78-89e7-a72b-4dd7-5a7a83ee04c9.htm" />
+  <HelpKINode Title="VoteList property" Url="html/0377266e-7acc-ea8b-05e8-902f9d19307a.htm" />
+  <HelpKINode Title="VoteVisible property" Url="html/c9451d2b-13bb-1a85-348c-65512721db72.htm" />
+  <HelpKINode Title="Welcome" Url="html/a8d68761-e4cd-4515-a3cc-ed224c6de1dc.htm" />
+  <HelpKINode Title="WEREWOLF enumeration member">
+    <HelpKINode Title="Role Enumeration" Url="html/a1c366ff-511e-5357-dfe1-34f17284be4d.htm" />
+    <HelpKINode Title="Species Enumeration" Url="html/52d816fd-1373-fd68-838d-8ea737bc02ec.htm" />
+    <HelpKINode Title="Team Enumeration" Url="html/90a3bfd2-4a2b-3d2a-ff98-78d98ff2078b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WerewolfPlayer property" Url="html/e7e16068-3e23-e04a-fa0b-6fb581b675fc.htm" />
+  <HelpKINode Title="Whisper class">
+    <HelpKINode Title="Whisper Class" Url="html/d78ffbb0-3aa5-ba3c-fc3d-f594870a0aa6.htm" />
+    <HelpKINode Title="constructor" Url="html/9b66dc47-f2b8-9fc6-234c-b40b4b28c69a.htm" />
+    <HelpKINode Title="fields" Url="html/8264f19a-b278-0793-f0ad-908b0ed2dc08.htm" />
+    <HelpKINode Title="methods" Url="html/cca8b232-7d47-c943-316e-3898472a63c8.htm" />
+    <HelpKINode Title="operators" Url="html/5e8932e6-65a1-bd38-b7d4-8a556a9233ad.htm" />
+    <HelpKINode Title="properties" Url="html/aa95bf59-17b2-1bd2-51b2-ad9870f75142.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WHISPER enumeration member" Url="html/ce4482e3-e369-9b1b-a057-7a89ba4c02e8.htm" />
+  <HelpKINode Title="Whisper method">
+    <HelpKINode Title="AbstractRoleAssignPlayer.Whisper Method " Url="html/bf0acf01-1f55-cd07-af4a-13c5b1055ba2.htm" />
+    <HelpKINode Title="DummyPlayer.Whisper Method " Url="html/cbf14242-617f-ba62-b369-f7462d5e912e.htm" />
+    <HelpKINode Title="IPlayer.Whisper Method " Url="html/932575f3-1469-ecfc-595f-2b848f2c9726.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Whisper.Empty field" Url="html/d399f00e-8224-5d48-9237-1551da0e7baf.htm" />
+  <HelpKINode Title="Whisper.Equality operator" Url="html/ab40648f-9af3-7de9-d563-805979b50e21.htm" />
+  <HelpKINode Title="Whisper.Equals method" Url="html/7f7be8b1-3244-da22-1d08-af08eafbd0c6.htm" />
+  <HelpKINode Title="Whisper.GetHashCode method" Url="html/4538d05f-47eb-e656-e220-ad03bda208b8.htm" />
+  <HelpKINode Title="Whisper.Inequality operator" Url="html/ee2b5732-081b-0531-6019-c22ed9236221.htm" />
+  <HelpKINode Title="Whisper.ToString method" Url="html/f8e85a88-b52c-d843-7b64-08a2c7481da2.htm" />
+  <HelpKINode Title="Whisper.Whisper constructor" Url="html/9b66dc47-f2b8-9fc6-234c-b40b4b28c69a.htm" />
+  <HelpKINode Title="WhisperBeforeRevote property" Url="html/8c4d5428-7375-7142-b9e3-1a8eb40fdc8b.htm" />
+  <HelpKINode Title="WhisperList property" Url="html/f02c5f08-0b9b-b118-be3a-653ddf1e419e.htm" />
+  <HelpKINode Title="XOR enumeration member" Url="html/74b5ad43-b1b2-6d5b-1944-c9e8006cb45f.htm" />
+  <HelpKINode Title="XorContentBuilder class">
+    <HelpKINode Title="XorContentBuilder Class" Url="html/6f5b6041-e305-9df7-fe3e-f0f8389d00f4.htm" />
+    <HelpKINode Title="constructor" Url="html/725036b0-c26e-2163-4b7d-063d022c8374.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XorContentBuilder.XorContentBuilder constructor" Url="html/725036b0-c26e-2163-4b7d-063d022c8374.htm" />
+</HelpKI>
