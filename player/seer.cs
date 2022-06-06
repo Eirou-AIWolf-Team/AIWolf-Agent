@@ -6,6 +6,7 @@ namespace Eirou
     public class Seer : IPlayer{
         IGameInfo GameInfo;
         public string Name { get; }
+
         public string Talk()
         {
             return Content.SKIP.Text;
@@ -13,13 +14,22 @@ namespace Eirou
     
         public Agent Vote()
         {
-            Console.WriteLine(GameInfo.AgentList[1]);
-            return GameInfo.AgentList[1];
+            Random num = new Random();
+            int index = num.Next(0,GameInfo.AliveAgentList.Count);
+            while(index == GameInfo.Agent.AgentIdx){
+                index = num.Next(0,GameInfo.AliveAgentList.Count);
+            }
+            return GameInfo.AgentList[index];
         }
 
         public Agent Divine()
         {
-            return GameInfo.AgentList[1];
+            Random num = new Random();
+            int index = num.Next(0,GameInfo.AliveAgentList.Count);
+            while(index == GameInfo.Agent.AgentIdx){
+                index = num.Next(0,GameInfo.AliveAgentList.Count);
+            }
+            return GameInfo.AgentList[index];
         }
 
         public void Initialize(IGameInfo gameInfo, IGameSetting gameSetting)
